@@ -5,3 +5,4 @@
 - 🌱 目前在学习 fastapi 和 Go 语言
 - 📫 你可以在 HelloGitHub 公众号找到我
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=521xueweihan)](https://github.com/anuraghazra/github-readme-stats)
